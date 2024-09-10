@@ -9,4 +9,4 @@ In the install.js file I implemented the correct handlers for each section using
 And finally in the database.js I used the examples from the course and online to add the correct logics.
 
 github link: https://github.com/ZekeTinch/text-editor 
-render link: 
+render link: https://text-editor-dlr4.onrender.com/
